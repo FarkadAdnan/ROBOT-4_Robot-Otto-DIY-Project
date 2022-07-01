@@ -22,3 +22,8 @@ Chapter 1 code_Project_4 The Third Part 3 of "The Arduino World Book" code_Proje
     </a>
 </p>
  
+# General structure of the robot
+![4](https://user-images.githubusercontent.com/35774039/176947345-ab291a61-63f2-4ac8-9415-865f59cd8642.PNG)
+
+# 3D structure
+![2](https://user-images.githubusercontent.com/35774039/176947410-3efed953-25db-4fbf-b4af-0aa5eb9fbaac.PNG)
